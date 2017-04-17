@@ -1,0 +1,24 @@
+
+uniforms[] =
+{
+// UNIFORMS
+	
+	// Infantry
+	{"rhs_uniform_gorka_r_y", {__ICE_gear_allRoles}},
+
+// VESTS
+	
+	// Infantry
+	{"rhsgref_6b23_khaki_rifleman", {__ICE_gear_allRoles}},
+
+
+// HELMETS
+	
+	// Infantry
+	{"rhs_6b27m_green", {__ICE_gear_allRoles}},
+	{"H_ShemagOpen_khk", {__ICE_gear_allRoles}},
+	{"H_Shemag_olive_hs", {__ICE_gear_allRoles}},
+	{"H_ShemagOpen_tan", {__ICE_gear_allRoles}},
+	
+	
+};

@@ -1,0 +1,31 @@
+
+uniforms[] =
+{
+// UNIFORMS
+	
+	// Infantry
+	{"rhs_uniform_g3_mc", {__ICE_gear_allRoles}},
+		
+
+
+// VESTS
+	
+	// Infantry
+	{"rhsusf_spcs_ocp_rifleman", {__ICE_gear_allRoles}},
+
+// HELMETS
+	
+	// Infantry
+	{"rhsusf_ach_helmet_ocp", {__ICE_gear_allRoles}},
+	{"H_ShemagOpen_khk", {__ICE_gear_allRoles}},
+	{"H_Watchcap_khk", {__ICE_gear_allRoles}},
+	{"H_Shemag_olive_hs", {__ICE_gear_allRoles}},
+	{"H_ShemagOpen_tan", {__ICE_gear_allRoles}},
+	
+// GLASSES
+	
+	{"rhs_googles_black", {__ICE_gear_allRoles}},
+	{"rhs_googles_orange", {__ICE_gear_allRoles}},
+	{"rhs_googles_yellow", {__ICE_gear_allRoles}},
+	{"rhs_googles_clear", {__ICE_gear_allRoles}}
+};
